@@ -1,0 +1,46 @@
+{
+  "_resourceType": "script",
+  "id": "552498ac-7c85-49e4-8242-10f8704bafb5",
+  "name": "SFX/Menu/Down",
+  "description": "",
+  "variables": {
+    "V0": {
+      "id": "V0",
+      "name": "SFX_OFF",
+      "passByReference": true
+    }
+  },
+  "actors": {},
+  "symbol": "script_2",
+  "script": [
+    {
+      "command": "EVENT_IF",
+      "args": {
+        "condition": {
+          "type": "variable",
+          "value": "V0"
+        },
+        "__collapseElse": false
+      },
+      "children": {
+        "true": [],
+        "false": [
+          {
+            "command": "EVENT_SOUND_PLAY_EFFECT",
+            "args": {
+              "type": "84fbc475-424f-49f5-89af-c22e7ed1afde",
+              "priority": "medium",
+              "pitch": 4,
+              "frequency": 200,
+              "duration": 0.5,
+              "wait": true,
+              "effect": 0
+            },
+            "id": "d860674c-5dad-494e-9887-a66dc210ca82"
+          }
+        ]
+      },
+      "id": "976db4bd-8b23-4b91-acb2-23236462661a"
+    }
+  ]
+}

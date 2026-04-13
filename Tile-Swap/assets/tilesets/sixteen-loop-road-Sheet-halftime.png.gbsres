@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "e355e530-28cd-4d5b-a886-9c59cde3f7fc",
+  "name": "sixteen-loop-road-Sheet-halftime",
+  "symbol": "tileset_sixteen_loop_road_s_1",
+  "width": 30,
+  "height": 2,
+  "imageWidth": 240,
+  "imageHeight": 16,
+  "filename": "sixteen-loop-road-Sheet-halftime.png"
+}

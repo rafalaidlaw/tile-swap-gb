@@ -1,0 +1,36 @@
+{
+  "_resourceType": "script",
+  "id": "7ef8502f-ab93-442e-abbb-f7fd36940398",
+  "name": "isJumping",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_3",
+  "script": [
+    {
+      "command": "EVENT_SET_INPUT_SCRIPT",
+      "args": {
+        "input": [
+          "a"
+        ],
+        "override": false,
+        "__scriptTabs": "press"
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_SET_VALUE",
+            "args": {
+              "variable": "0",
+              "value": {
+                "type": "true"
+              }
+            },
+            "id": "2ce00968-9eee-457c-bf6b-aea9c884430a"
+          }
+        ]
+      },
+      "id": "1d0a7e3d-01ce-46de-884e-f526ef5d8285"
+    }
+  ]
+}

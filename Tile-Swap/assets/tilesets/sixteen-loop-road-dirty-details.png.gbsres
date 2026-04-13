@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "da2b9b31-040b-440b-93a3-d07bd8f596a5",
+  "name": "sixteen-loop-road-dirty-details",
+  "symbol": "tileset_sixteen_loop_road_d_3",
+  "width": 80,
+  "height": 2,
+  "imageWidth": 640,
+  "imageHeight": 16,
+  "filename": "sixteen-loop-road-dirty-details.png"
+}

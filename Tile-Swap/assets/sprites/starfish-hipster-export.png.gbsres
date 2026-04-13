@@ -1,0 +1,102 @@
+{
+  "_resourceType": "sprite",
+  "id": "9443986d-6bb9-4692-8524-ae7b140962f8",
+  "name": "starfish-hipster-export",
+  "symbol": "sprite_starfish_hipster_exp",
+  "states": [
+    {
+      "id": "42f637cd-2cf2-4e79-8f40-ecc9a505a1a3",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "3032e237-9641-47d7-9ede-4182f0953320",
+          "frames": [
+            {
+              "id": "4d1fc4ad-f55b-4ad8-8634-21d185a779aa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "38438a71-ef60-4c64-9c59-ecef8d12390f",
+          "frames": [
+            {
+              "id": "f2a5c79e-20bd-427e-83b6-bb13765ebb8f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "de0208a0-9dd9-4b97-9373-2f7e8fd9f970",
+          "frames": [
+            {
+              "id": "877ebc77-9fd3-412d-9f2e-1c0c57a03930",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "785942f4-fe1d-45be-bc36-f4a3dd9149b0",
+          "frames": [
+            {
+              "id": "e33174cf-9b0c-4aee-a890-f78e5f5bedf3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d577c265-9024-454e-a290-0ae5e158c103",
+          "frames": [
+            {
+              "id": "57a46956-d16d-48c7-acd4-e14dcb241251",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "18393f5d-916a-45e9-a7ec-9c2146649067",
+          "frames": [
+            {
+              "id": "aea8bc96-8c37-4d08-8c43-029ccf0198f9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1ddd3df0-ede4-44d9-a766-470dfd883c91",
+          "frames": [
+            {
+              "id": "7852369f-0e7a-4d03-9158-cfb804fd5e5d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1d350271-f861-4567-98de-000fd8a31a7c",
+          "frames": [
+            {
+              "id": "f1beb509-33bc-4d4f-b1b9-5b1e2f00139a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": -8,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "starfish-hipster-export.png",
+  "width": 32,
+  "height": 32,
+  "checksum": "621ceafff05c8ff697b9eae5eb48c186859b08c4"
+}

@@ -1,0 +1,104 @@
+{
+  "_resourceType": "trigger",
+  "id": "f7c15ae5-da79-4a35-9b1e-c7a9557b93be",
+  "name": "LANE-MIDDLE",
+  "prefabId": "",
+  "x": 2,
+  "y": 13,
+  "symbol": "trigger_0",
+  "prefabScriptOverrides": {},
+  "width": 1,
+  "height": 1,
+  "script": [
+    {
+      "id": "b6e77470-f681-41b6-a172-eea941ee9bd0",
+      "command": "EVENT_GROUP",
+      "args": {
+        "__collapse": false,
+        "__label": "Retro Movement"
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_SET_INPUT_SCRIPT",
+            "args": {
+              "input": [
+                "up"
+              ],
+              "override": true,
+              "__scriptTabs": "press",
+              "__collapse": false
+            },
+            "children": {
+              "true": [
+                {
+                  "command": "EVENT_ACTOR_SET_POSITION",
+                  "args": {
+                    "actorId": "$self$",
+                    "x": {
+                      "type": "number",
+                      "value": 1
+                    },
+                    "y": {
+                      "type": "number",
+                      "value": 11
+                    }
+                  },
+                  "id": "e5a3102f-7651-4662-8b65-08ddcd023bb2"
+                },
+                {
+                  "command": "EVENT_CALL_CUSTOM_EVENT",
+                  "args": {
+                    "customEventId": "87a88019-330d-40a1-b23b-d59cd63b9684"
+                  },
+                  "id": "58dc37ac-080d-464e-8c12-4b8529040b10"
+                }
+              ]
+            },
+            "id": "445a9e8b-b88b-48f3-96fa-333dd6397d89"
+          },
+          {
+            "command": "EVENT_SET_INPUT_SCRIPT",
+            "args": {
+              "input": [
+                "down"
+              ],
+              "override": true,
+              "__scriptTabs": "press",
+              "__collapse": false
+            },
+            "children": {
+              "true": [
+                {
+                  "command": "EVENT_ACTOR_SET_POSITION",
+                  "args": {
+                    "actorId": "$self$",
+                    "x": {
+                      "type": "number",
+                      "value": 3
+                    },
+                    "y": {
+                      "type": "number",
+                      "value": 15
+                    }
+                  },
+                  "id": "3b6986a9-965d-4b03-afe4-69ba1e9921c2"
+                },
+                {
+                  "command": "EVENT_CALL_CUSTOM_EVENT",
+                  "args": {
+                    "customEventId": "552498ac-7c85-49e4-8242-10f8704bafb5"
+                  },
+                  "id": "024e2d2b-e366-4d1a-853e-2a78ac1bd02d"
+                }
+              ]
+            },
+            "id": "5239642f-50a0-4c44-9367-4ca874fce171"
+          }
+        ]
+      }
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}

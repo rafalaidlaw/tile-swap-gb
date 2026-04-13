@@ -1,0 +1,81 @@
+{
+  "_resourceType": "trigger",
+  "id": "bc06d065-6488-4a82-acff-bd8295669d9a",
+  "name": "LANE-BOTTOM",
+  "prefabId": "",
+  "x": 3,
+  "y": 15,
+  "symbol": "trigger_2",
+  "prefabScriptOverrides": {},
+  "width": 1,
+  "height": 1,
+  "script": [
+    {
+      "id": "c3f718b2-e0fa-4880-baef-3a050dd820ec",
+      "command": "EVENT_GROUP",
+      "args": {
+        "__collapse": false,
+        "__label": "Retro Movement"
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_SET_INPUT_SCRIPT",
+            "args": {
+              "input": [
+                "up"
+              ],
+              "override": true,
+              "__scriptTabs": "press",
+              "__collapse": false
+            },
+            "children": {
+              "true": [
+                {
+                  "command": "EVENT_ACTOR_SET_POSITION",
+                  "args": {
+                    "actorId": "$self$",
+                    "x": {
+                      "type": "number",
+                      "value": 2
+                    },
+                    "y": {
+                      "type": "number",
+                      "value": 13
+                    }
+                  },
+                  "id": "61b5e973-2e75-484c-8c38-8fd2191f6210"
+                },
+                {
+                  "command": "EVENT_CALL_CUSTOM_EVENT",
+                  "args": {
+                    "customEventId": "87a88019-330d-40a1-b23b-d59cd63b9684"
+                  },
+                  "id": "db0ced81-6eb3-4146-ba05-6f8855cbde03"
+                }
+              ]
+            },
+            "id": "f3f899eb-828d-4038-b4a5-0103eeeb0fb1"
+          },
+          {
+            "command": "EVENT_SET_INPUT_SCRIPT",
+            "args": {
+              "input": [
+                "down"
+              ],
+              "override": true,
+              "__scriptTabs": "press",
+              "__collapse": false
+            },
+            "children": {
+              "true": []
+            },
+            "id": "3d524f81-03c9-4b61-8dfd-d97d5ab439bf"
+          }
+        ]
+      }
+    }
+  ],
+  "leaveScript": [],
+  "_index": 2
+}

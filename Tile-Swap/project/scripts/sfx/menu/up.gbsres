@@ -1,0 +1,46 @@
+{
+  "_resourceType": "script",
+  "id": "87a88019-330d-40a1-b23b-d59cd63b9684",
+  "name": "SFX/Menu/Up",
+  "description": "",
+  "variables": {
+    "V0": {
+      "id": "V0",
+      "name": "SFX_OFF",
+      "passByReference": true
+    }
+  },
+  "actors": {},
+  "symbol": "script_1",
+  "script": [
+    {
+      "command": "EVENT_IF",
+      "args": {
+        "condition": {
+          "type": "variable",
+          "value": "V0"
+        },
+        "__collapseElse": false
+      },
+      "children": {
+        "true": [],
+        "false": [
+          {
+            "command": "EVENT_SOUND_PLAY_EFFECT",
+            "args": {
+              "type": "77ea539c-3db6-426a-ba42-dfda36cded0a",
+              "priority": "medium",
+              "pitch": 4,
+              "frequency": 200,
+              "duration": 0.5,
+              "wait": true,
+              "effect": 0
+            },
+            "id": "3657b8d6-caf4-45ff-a6ad-caeae9c42ebd"
+          }
+        ]
+      },
+      "id": "1b313d88-8da6-4c59-8750-8077593ab198"
+    }
+  ]
+}

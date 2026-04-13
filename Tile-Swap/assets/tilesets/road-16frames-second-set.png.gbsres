@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "16fd2888-1fe1-4299-9bfc-793776c80b8c",
+  "name": "road-16frames-second-set",
+  "symbol": "tileset_road_16frames_secon",
+  "width": 32,
+  "height": 2,
+  "imageWidth": 256,
+  "imageHeight": 16,
+  "filename": "road-16frames-second-set.png"
+}

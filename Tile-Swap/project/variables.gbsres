@@ -1,0 +1,11 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "4d158b24-41b5-469e-ae65-c5e3fb09d5bc__L0",
+      "name": "notJumping",
+      "symbol": "var_notjumping"
+    }
+  ],
+  "constants": []
+}

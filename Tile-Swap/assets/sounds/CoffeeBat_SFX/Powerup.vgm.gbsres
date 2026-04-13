@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "8ba7949c-d481-42b8-8904-1bf6cfca576c",
+  "name": "CoffeeBat_SFX/Powerup.vgm",
+  "symbol": "sound_coffeebat_sfx_powerup",
+  "type": "vgm",
+  "filename": "CoffeeBat_SFX/Powerup.vgm"
+}

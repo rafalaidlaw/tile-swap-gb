@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "3aac761d-0bfd-43ec-bece-d4516db174b5",
+  "name": "sixteen-loop-road-Sheet",
+  "symbol": "tileset_sixteen_loop_road_s",
+  "width": 58,
+  "height": 2,
+  "imageWidth": 464,
+  "imageHeight": 16,
+  "filename": "sixteen-loop-road-Sheet.png"
+}

@@ -1,0 +1,181 @@
+{
+  "_resourceType": "sprite",
+  "id": "84bfc2e9-da66-4131-816e-0539627c4425",
+  "name": "retro-aviatordog",
+  "symbol": "sprite_retro_aviatordog",
+  "states": [
+    {
+      "id": "79216a48-623e-4880-919b-36a196a58f08",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "dd318bdd-75bd-4b02-9658-ab8e0e3a0140",
+          "frames": [
+            {
+              "id": "fe53f1a0-4f33-4de0-9249-82a53a02538c",
+              "tiles": [
+                {
+                  "id": "d0581747-fde9-4bfa-b0fb-70863723a297",
+                  "x": -8,
+                  "y": 16,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "186ab50c-6cd7-4321-864b-629593de5d17",
+                  "x": -8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "540c2366-bdaf-438b-a0c0-8d8f528eb276",
+                  "x": 0,
+                  "y": 16,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "062394a1-0258-46ed-8ee0-9d074dbbb3f1",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "a6ba6cd3-d2e3-4ca1-88d8-7d9b1941dfde",
+                  "x": 8,
+                  "y": 16,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "c4f96980-9062-4c11-8445-3f5638a16514",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "df761e20-8f58-4d82-9a61-e7720c897aa7",
+          "frames": [
+            {
+              "id": "0eed7cf3-c236-4ea8-8901-4ba608382c0f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a2ef7e8a-c1dc-4a83-9084-51b71ea6c49d",
+          "frames": [
+            {
+              "id": "1bddd457-07b0-4570-a31b-19c70d33fcce",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "27aa58b0-75e5-4414-849d-2c423cd3ada8",
+          "frames": [
+            {
+              "id": "70f005ab-63fe-44c4-a0ed-70777ae7b8e7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "497e9269-92ff-4d2d-9974-40d5a7915474",
+          "frames": [
+            {
+              "id": "2d585998-ea48-4cb5-ab4c-f58621df20fc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a893e304-512b-4ff9-a6d1-d07053a3f380",
+          "frames": [
+            {
+              "id": "6c3484f4-e93d-463e-8af3-e166fb5716e1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f470044f-82bf-4522-8766-56d37f6272b8",
+          "frames": [
+            {
+              "id": "57dc01a3-f641-40ac-9725-5cd25d4ad062",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3a6045a9-ec69-4b38-ad8c-13ab3679bc79",
+          "frames": [
+            {
+              "id": "3d135ea8-3b47-4adc-a354-96cc823d2808",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 6,
+  "canvasOriginX": -8,
+  "canvasOriginY": -16,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 24,
+  "boundsHeight": 24,
+  "animSpeed": 15,
+  "filename": "retro-aviatordog.png",
+  "width": 24,
+  "height": 24,
+  "checksum": "426f24fb191904a266c6008ef6db181ff6b0f746"
+}

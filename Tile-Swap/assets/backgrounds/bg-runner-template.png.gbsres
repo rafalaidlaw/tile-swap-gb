@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "bec6c020-a598-461e-b570-0b53e3a2a42a",
+  "name": "bg-runner-template",
+  "symbol": "bg_bg_runner_template_copy",
+  "tileColors": "",
+  "filename": "bg-runner-template.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144
+}
