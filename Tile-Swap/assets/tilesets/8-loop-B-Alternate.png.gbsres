@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "27afb08a-654d-4c14-9faf-4f7f86b6208a",
+  "name": "8-loop-B-Alternate",
+  "symbol": "tileset_8_loop_b_alternate",
+  "width": 16,
+  "height": 2,
+  "imageWidth": 128,
+  "imageHeight": 16,
+  "filename": "8-loop-B-Alternate.png"
+}

@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "9fbfd620-4e74-4db4-a5c0-e4d60fff0c63",
+  "name": "32-loop-A-alternative",
+  "symbol": "tileset_32_loop_a_alternati",
+  "width": 64,
+  "height": 2,
+  "imageWidth": 512,
+  "imageHeight": 16,
+  "filename": "32-loop-A-alternative.png"
+}

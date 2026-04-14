@@ -1,8 +1,8 @@
 {
   "_resourceType": "tileset",
-  "id": "d8068796-542b-4e3c-a804-fbe0971a0125",
+  "id": "e7d17f3d-3637-4885-9a5d-9066877174ff",
   "name": "road-8frames-Sheet",
-  "symbol": "tileset_road_8frames_sheet",
+  "symbol": "tileset_roadframes_sheet_0",
   "width": 16,
   "height": 2,
   "imageWidth": 128,
