@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "fb0334fc-4742-441d-8606-d37a8c36eb99",
+  "name": "32-midroad-loop-A",
+  "symbol": "tileset_32_midroad_loop_a",
+  "width": 64,
+  "height": 2,
+  "imageWidth": 512,
+  "imageHeight": 16,
+  "filename": "32-midroad-loop-A.png"
+}

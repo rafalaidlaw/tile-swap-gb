@@ -5,6 +5,11 @@
       "id": "4d158b24-41b5-469e-ae65-c5e3fb09d5bc__L0",
       "name": "notJumping",
       "symbol": "var_notjumping"
+    },
+    {
+      "id": "17c7acfa-b2fb-4ad2-b7be-b01517c6c2eb__L0",
+      "name": "notJumping",
+      "symbol": "var_notjumping_0"
     }
   ],
   "constants": []

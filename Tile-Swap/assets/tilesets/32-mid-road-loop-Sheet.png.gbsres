@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "9da73ba2-73fa-4686-b111-90bdf28839a8",
+  "name": "32-mid-road-loop-Sheet",
+  "symbol": "tileset_32_mid_road_loop_sh",
+  "width": 64,
+  "height": 2,
+  "imageWidth": 512,
+  "imageHeight": 16,
+  "filename": "32-mid-road-loop-Sheet.png"
+}

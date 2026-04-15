@@ -1,12 +1,12 @@
 {
   "_resourceType": "actor",
-  "id": "5654e7cc-7c7c-45d2-9b1f-4de5323f8a3b",
-  "name": "Starfish-Hipster",
+  "id": "f49c9d16-cc72-44c6-b9c7-9a060d1f3463",
+  "name": "FRESH-CRAB",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "534c2e6c-df4d-40cb-8076-c0acfa2121dc",
+  "spriteSheetId": "6834b0a8-43f0-4daa-9ef5-86412b6d55bd",
   "prefabId": "",
-  "direction": "down",
+  "direction": "right",
   "moveSpeed": 1,
   "animSpeed": 15,
   "paletteId": "",
@@ -15,7 +15,7 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_0",
+  "symbol": "actor_5",
   "script": [],
   "startScript": [],
   "updateScript": [],
@@ -23,7 +23,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 20,
-  "y": 5,
-  "_index": 0
+  "x": 13,
+  "y": 13,
+  "_index": 2
 }

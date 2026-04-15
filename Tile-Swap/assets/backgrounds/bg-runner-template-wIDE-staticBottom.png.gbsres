@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f9a3ad9f-d5f3-4953-837b-dc0d8cb83dc8",
+  "name": "bg-runner-template-wIDE-staticBottom",
+  "symbol": "bg_bg_runner_template_wide_",
+  "tileColors": "",
+  "filename": "bg-runner-template-wIDE-staticBottom.png",
+  "width": 240,
+  "height": 18,
+  "imageWidth": 1920,
+  "imageHeight": 144
+}

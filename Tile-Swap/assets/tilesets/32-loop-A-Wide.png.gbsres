@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "c24661d7-8167-4f8a-b56a-a16de2094bbf",
+  "name": "32-loop-A-Wide",
+  "symbol": "tileset_32_loop_a_wide",
+  "width": 64,
+  "height": 2,
+  "imageWidth": 512,
+  "imageHeight": 16,
+  "filename": "32-loop-A-Wide.png"
+}

@@ -1,17 +1,17 @@
 {
   "_resourceType": "trigger",
-  "id": "bc06d065-6488-4a82-acff-bd8295669d9a",
+  "id": "f550c9bc-7404-4175-a9f7-834523086a19",
   "name": "LANE-BOTTOM",
   "prefabId": "",
-  "x": 4,
-  "y": 12,
-  "symbol": "trigger_2",
+  "x": 3,
+  "y": 14,
+  "symbol": "trigger_5",
   "prefabScriptOverrides": {},
   "width": 1,
   "height": 1,
   "script": [
     {
-      "id": "c3f718b2-e0fa-4880-baef-3a050dd820ec",
+      "id": "b4d3c0b9-dd6c-4cfa-a54a-5135d54fa2a9",
       "command": "EVENT_GROUP",
       "args": {
         "__collapse": false,
@@ -44,18 +44,18 @@
                       "value": 12
                     }
                   },
-                  "id": "61b5e973-2e75-484c-8c38-8fd2191f6210"
+                  "id": "9db05e08-0292-4cc9-a8b0-a2bba5167642"
                 },
                 {
                   "command": "EVENT_CALL_CUSTOM_EVENT",
                   "args": {
                     "customEventId": "87a88019-330d-40a1-b23b-d59cd63b9684"
                   },
-                  "id": "db0ced81-6eb3-4146-ba05-6f8855cbde03"
+                  "id": "faf3e1af-9893-40f4-960e-a2f150dbd62c"
                 }
               ]
             },
-            "id": "f3f899eb-828d-4038-b4a5-0103eeeb0fb1"
+            "id": "7bb9cd69-a6da-420b-b11f-65e9bdcd35a9"
           },
           {
             "command": "EVENT_SET_INPUT_SCRIPT",
@@ -70,7 +70,7 @@
             "children": {
               "true": []
             },
-            "id": "3d524f81-03c9-4b61-8dfd-d97d5ab439bf"
+            "id": "38a3048d-460e-414a-87f2-e514c8cf3ebe"
           }
         ]
       }

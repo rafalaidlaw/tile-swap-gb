@@ -4,7 +4,7 @@
   "name": "LANE-MIDDLE",
   "prefabId": "",
   "x": 2,
-  "y": 13,
+  "y": 10,
   "symbol": "trigger_0",
   "prefabScriptOverrides": {},
   "width": 1,
@@ -41,7 +41,7 @@
                     },
                     "y": {
                       "type": "number",
-                      "value": 11
+                      "value": 10
                     }
                   },
                   "id": "e5a3102f-7651-4662-8b65-08ddcd023bb2"
@@ -79,7 +79,7 @@
                     },
                     "y": {
                       "type": "number",
-                      "value": 15
+                      "value": 14
                     }
                   },
                   "id": "3b6986a9-965d-4b03-afe4-69ba1e9921c2"

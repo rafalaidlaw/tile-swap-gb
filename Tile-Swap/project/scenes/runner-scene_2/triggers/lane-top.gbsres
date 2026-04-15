@@ -1,17 +1,17 @@
 {
   "_resourceType": "trigger",
-  "id": "bc06d065-6488-4a82-acff-bd8295669d9a",
-  "name": "LANE-BOTTOM",
+  "id": "a493decf-e007-4d0c-84f4-674d8cb8419b",
+  "name": "LANE-TOP",
   "prefabId": "",
-  "x": 4,
-  "y": 12,
-  "symbol": "trigger_2",
+  "x": 1,
+  "y": 10,
+  "symbol": "trigger_4",
   "prefabScriptOverrides": {},
   "width": 1,
   "height": 1,
   "script": [
     {
-      "id": "c3f718b2-e0fa-4880-baef-3a050dd820ec",
+      "id": "4760e776-c0f3-4ef9-b3ba-5bfe0ca2233a",
       "command": "EVENT_GROUP",
       "args": {
         "__collapse": false,
@@ -24,6 +24,22 @@
             "args": {
               "input": [
                 "up"
+              ],
+              "override": true,
+              "__scriptTabs": "press",
+              "__collapse": false,
+              "__label": "Up button"
+            },
+            "children": {
+              "true": []
+            },
+            "id": "1e59fb41-b7a4-4cf3-948f-010a377970a5"
+          },
+          {
+            "command": "EVENT_SET_INPUT_SCRIPT",
+            "args": {
+              "input": [
+                "down"
               ],
               "override": true,
               "__scriptTabs": "press",
@@ -44,38 +60,24 @@
                       "value": 12
                     }
                   },
-                  "id": "61b5e973-2e75-484c-8c38-8fd2191f6210"
+                  "id": "1b4493d5-0299-4d16-9da8-e864aed6c5c7"
                 },
                 {
                   "command": "EVENT_CALL_CUSTOM_EVENT",
                   "args": {
-                    "customEventId": "87a88019-330d-40a1-b23b-d59cd63b9684"
+                    "customEventId": "552498ac-7c85-49e4-8242-10f8704bafb5",
+                    "__collapse": true
                   },
-                  "id": "db0ced81-6eb3-4146-ba05-6f8855cbde03"
+                  "id": "bb4907da-6e16-4eb1-8dec-d0e238b5d123"
                 }
               ]
             },
-            "id": "f3f899eb-828d-4038-b4a5-0103eeeb0fb1"
-          },
-          {
-            "command": "EVENT_SET_INPUT_SCRIPT",
-            "args": {
-              "input": [
-                "down"
-              ],
-              "override": true,
-              "__scriptTabs": "press",
-              "__collapse": false
-            },
-            "children": {
-              "true": []
-            },
-            "id": "3d524f81-03c9-4b61-8dfd-d97d5ab439bf"
+            "id": "f58ace3f-97c7-4009-9176-4b9c3c43ebfb"
           }
         ]
       }
     }
   ],
   "leaveScript": [],
-  "_index": 2
+  "_index": 1
 }

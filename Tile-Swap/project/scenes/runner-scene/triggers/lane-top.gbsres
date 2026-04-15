@@ -4,7 +4,7 @@
   "name": "LANE-TOP",
   "prefabId": "",
   "x": 1,
-  "y": 11,
+  "y": 8,
   "symbol": "trigger_1",
   "prefabScriptOverrides": {},
   "width": 1,
@@ -57,7 +57,7 @@
                     },
                     "y": {
                       "type": "number",
-                      "value": 13
+                      "value": 12
                     }
                   },
                   "id": "236aba79-7ac8-4a4a-ab0a-2eb86e0ccc99"

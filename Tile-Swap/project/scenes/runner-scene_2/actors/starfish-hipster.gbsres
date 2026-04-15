@@ -1,6 +1,6 @@
 {
   "_resourceType": "actor",
-  "id": "5654e7cc-7c7c-45d2-9b1f-4de5323f8a3b",
+  "id": "7e3bd6b0-ef47-4d5a-8648-92d5ae6f16c7",
   "name": "Starfish-Hipster",
   "frame": 0,
   "animate": false,
@@ -15,7 +15,7 @@
   "collisionGroup": "",
   "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_0",
+  "symbol": "actor_2",
   "script": [],
   "startScript": [],
   "updateScript": [],
@@ -23,7 +23,7 @@
   "hit2Script": [],
   "hit3Script": [],
   "coordinateType": "tiles",
-  "x": 20,
-  "y": 5,
+  "x": 15,
+  "y": 9,
   "_index": 0
 }

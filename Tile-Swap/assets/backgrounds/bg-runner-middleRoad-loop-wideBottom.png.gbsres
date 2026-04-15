@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "2a455a07-e8f4-4651-8c63-27bfca3b92fc",
+  "name": "bg-runner-middleRoad-loop-wideBottom",
+  "symbol": "bg_bg_runner_middleroad_loo",
+  "tileColors": "",
+  "filename": "bg-runner-middleRoad-loop-wideBottom.png",
+  "width": 240,
+  "height": 18,
+  "imageWidth": 1920,
+  "imageHeight": 144
+}

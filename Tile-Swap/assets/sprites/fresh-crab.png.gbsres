@@ -1,0 +1,155 @@
+{
+  "_resourceType": "sprite",
+  "id": "6eadc4cb-a8a7-4694-8071-10a181a89271",
+  "name": "fresh-crab",
+  "symbol": "sprite_fresh_crab",
+  "states": [
+    {
+      "id": "441b2835-2b5f-43a5-a38c-be724aba4b72",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "d64043a3-2109-4fef-8a07-85c1cea0ad5c",
+          "frames": [
+            {
+              "id": "3f5b7cd9-6dd8-4f88-8ac3-376ba607df26",
+              "tiles": [
+                {
+                  "id": "b36964b7-a62b-4a33-bc33-5c5917749045",
+                  "x": -8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "0508d07f-15ae-442c-9ce7-830c99a3b1cf",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "9545dfa4-7839-4706-9f8a-8a11699c90fd",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "1221893e-689d-4348-9e32-443aa7264166",
+                  "x": 16,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "012da531-9775-44cb-9ffa-cdded84ea62a",
+          "frames": [
+            {
+              "id": "886c86e4-86e7-4bc4-a4ba-af3bcdcd33f8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ea557477-b5a5-47bd-aa23-20d2c61f7264",
+          "frames": [
+            {
+              "id": "a0cb6b85-9a11-4c4d-8f79-6bd1aa1eb1bf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ae631c04-664e-48bf-bc1a-154411812f99",
+          "frames": [
+            {
+              "id": "ba0d27df-d285-4ecd-995c-ee29c6fc8426",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2975c5e6-4a8c-4017-9300-d556088cd2d6",
+          "frames": [
+            {
+              "id": "df9e44dc-3e1d-4079-b5c9-c07d8e758580",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "73105e96-16a7-4c29-98cb-c94d505ee6b9",
+          "frames": [
+            {
+              "id": "f838ae19-f789-41a8-977b-0a7941465489",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "043d89d5-624b-4c74-b5df-af95a2af83a9",
+          "frames": [
+            {
+              "id": "440e4c1a-fb0a-4b6c-90bc-3f2db152a215",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3e05acec-b3f1-459f-bdb3-888d9a90df40",
+          "frames": [
+            {
+              "id": "87be382d-e315-4966-a41d-e208de4c3ebd",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasOriginX": -8,
+  "canvasOriginY": -8,
+  "canvasWidth": 32,
+  "canvasHeight": 24,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 32,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "fresh-crab.png",
+  "width": 32,
+  "height": 24,
+  "checksum": "5b70c34f17f45ce5e1a43a79932541bfa5767e6d"
+}
